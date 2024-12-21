@@ -1,0 +1,48 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+*.cover
+*.coverage
+*.hypothesis/
+.coverage.*
+nosetests.xml
+coverage.xml
+*.coveralls.yml
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# PyCharm specific files
+.idea/
+
+# VS Code specific files
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
